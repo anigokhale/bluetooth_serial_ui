@@ -1,0 +1,14 @@
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.csprojAssemblyReference.cache
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.Form1.resources
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.Properties.Resources.resources
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.csproj.GenerateResource.cache
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.csproj.CoreCompileInputs.cache
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\bin\Debug\bluetooth_serial_ui.exe.config
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\bin\Debug\bluetooth_serial_ui.exe
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\bin\Debug\bluetooth_serial_ui.pdb
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.exe
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.pdb
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\bin\Debug\bluetooth_serial_ui.exe.manifest
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\bin\Debug\bluetooth_serial_ui.application
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.exe.manifest
+C:\Users\anigo\Documents\Robotics\code\bluetooth_serial_ui\obj\Debug\bluetooth_serial_ui.application
